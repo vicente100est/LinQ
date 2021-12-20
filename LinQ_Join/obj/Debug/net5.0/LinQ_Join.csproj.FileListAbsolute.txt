@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\bin\Debug\net5.0\LinQ_Join.exe
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\bin\Debug\net5.0\LinQ_Join.deps.json
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\bin\Debug\net5.0\LinQ_Join.runtimeconfig.json
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\bin\Debug\net5.0\LinQ_Join.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\bin\Debug\net5.0\LinQ_Join.dll
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\bin\Debug\net5.0\ref\LinQ_Join.dll
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\bin\Debug\net5.0\LinQ_Join.pdb
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.AssemblyInfo.cs
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.dll
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\ref\LinQ_Join.dll
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.pdb
+C:\Users\vicen\source\repos\LinQ\LinQ_Join\obj\Debug\net5.0\LinQ_Join.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4CNyoGYxdh+g6moDWGcPsiqGTCpMQSTUJJlE7on666SJmXlv7Z9qgTZTlWAt+K90vKucUkQYg6iqUIUTvkwNSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicen\\source\\repos\\LinQ\\SeleccionalrBuscarOrdenar\\SeleccionalrBuscarOrdenar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

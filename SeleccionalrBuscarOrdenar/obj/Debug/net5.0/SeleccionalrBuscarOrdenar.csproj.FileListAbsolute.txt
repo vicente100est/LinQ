@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\bin\Debug\net5.0\SeleccionalrBuscarOrdenar.exe
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\bin\Debug\net5.0\SeleccionalrBuscarOrdenar.deps.json
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\bin\Debug\net5.0\SeleccionalrBuscarOrdenar.runtimeconfig.json
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\bin\Debug\net5.0\SeleccionalrBuscarOrdenar.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\bin\Debug\net5.0\SeleccionalrBuscarOrdenar.dll
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\bin\Debug\net5.0\ref\SeleccionalrBuscarOrdenar.dll
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\bin\Debug\net5.0\SeleccionalrBuscarOrdenar.pdb
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.AssemblyInfo.cs
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.dll
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\ref\SeleccionalrBuscarOrdenar.dll
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.pdb
+C:\Users\vicen\source\repos\LinQ\SeleccionalrBuscarOrdenar\obj\Debug\net5.0\SeleccionalrBuscarOrdenar.genruntimeconfig.cache
